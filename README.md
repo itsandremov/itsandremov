@@ -7,7 +7,7 @@ Hey there! I'm André, a passionate web developer from Germany 🇩🇪. Current
 - **Design:** CSS, Photoshop & After Effects
 - **Projects:** 
     - [ShrinkCo.in](https://github.com/ShrinkCoin)
-    - [WallCo.in](https://wallco.in/)
+    - [WallCo.in](https://github.com/WallCo-in)
 
 ## 🔗 My Work
 I have been working as a trainee web developer for the past 2 years, and I have been running my own websites as a side business for 1.5 years, holding a valid trade license. With my websites, I have been able to build a user base of over 1,600 users, making a significant contribution to the crypto community.
