@@ -4,6 +4,7 @@ Hey there! I'm André, a passionate web developer from Germany 🇩🇪. Current
 ## 💻 My Skills
 - **Programming Languages:** PHP 8
 - **Frameworks:** Symfony
+- **Design:** CSS, Photoshop & After Effects
 - **Projects:** 
     - [ShrinkCo.in](https://github.com/ShrinkCoin)
     - [WallCo.in](https://wallco.in/)
