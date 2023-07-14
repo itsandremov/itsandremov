@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Hey there! I'm André, a passionate web developer from Germany 🇩🇪. Currently, I am working as an apprentice Fachinformatiker specializing in application development at Rangee GmbH, with a strong focus on web development.
+Hey there! I'm André, a passionate web developer from Germany 🇩🇪. Currently, I am working as an apprentice Fachinformatiker specializing in application development at [Rangee GmbH](https://github.com/RangeeGmbH), with a strong focus on web development.
 
 ## 💻 My Skills
 - **Programming Languages:** PHP 8
