@@ -1,13 +1,15 @@
 ## 🚀 About Me
-Hey there! I'm André, a passionate web developer from Germany 🇩🇪. Currently, I am working as an apprentice Fachinformatiker specializing in application development with a strong focus on web development.
+Hey there! I'm André, a passionate web developer from Germany 🇩🇪. Currently, I am working as a full-time web developer, while also managing and developing my own web projects.
 
 ## 💻 My Skills
 - **Programming Languages:** PHP 8
 - **Frameworks:** Symfony
 - **Design:** CSS, Photoshop & After Effects
 - **Projects:** 
-    - [ShrinkCo.in](https://github.com/ShrinkCoin)
-    - [WallCo.in](https://github.com/WallCo-in)
+    - **Personal:** [itsandremov.de](https://itsandremov.de/)
+    - [ShrinkCo.in](https://shrinkco.in/)
+    - [WallCo.in](https://wallco.in/)
+    - [RetroAds.de](https://retroads.de/)
 
 ## 🔗 My Work
 I am a full-time web developer with a completed apprenticeship as an IT specialist in application development. For several years, I've been running my own websites as a side business. With a large and growing user base, my projects have made a notable impact on the crypto community, and I continue to expand and innovate in the space.
