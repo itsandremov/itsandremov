@@ -5,11 +5,8 @@ Hey there! I'm André, a passionate web developer from Germany 🇩🇪. Current
 - **Programming Languages:** PHP 8
 - **Frameworks:** Symfony
 - **Design:** CSS, Photoshop & After Effects
-- **Projects:** 
-    - **Personal:** [itsandremov.de](https://itsandremov.de/)
-    - [ShrinkCo.in](https://shrinkco.in/)
-    - [WallCo.in](https://wallco.in/)
-    - [RetroAds.de](https://retroads.de/)
+- **Learn more about me:** 
+    - [itsandremov.de](https://itsandremov.de/)
 
 ## 🔗 My Work
 I am a full-time web developer with a completed apprenticeship as an IT specialist in application development. For several years, I've been running my own websites as a side business. With a large and growing user base, my projects have made a notable impact on the crypto community, and I continue to expand and innovate in the space.
